@@ -59,7 +59,7 @@ Difficulty adapts dynamically.
 
 ## 🎥 Simulation Video
 
-[📺 Watch the EcoLog video](<https://drive.google.com/file/d/1hWyIHzYPpkhUtfKRcJ5tWrwfbkv2fItj/view?usp=sharing>)
+[📺 Watch the video](<https://drive.google.com/file/d/1Trx0nZ9UGFgUraRSregWFIHMX0YnjzLS/view?usp=sharing>)
 
 ---
 
